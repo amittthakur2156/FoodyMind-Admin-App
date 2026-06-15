@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Admin of FoodyMind</string>
+    <string name="default_web_client_id">240813976856-vgm5itj440gbrsrs8uiit8ai492aqurc.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1231349038946603</string>
+    <string name="fb_login_protocol_scheme">fb1231349038946603</string>
+    <string name="facebook_client_token">8f7e6d5c4b3a210987654321fedcba98</string>
+
+
+</resources>
